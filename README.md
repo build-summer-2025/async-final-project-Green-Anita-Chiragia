@@ -17,62 +17,85 @@ I  chose this dataset because I’m interested in how emerging technologies like
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: What are the top 10 most common tags related to AI?
-Goal: Count how many times each tag appears.
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+- [ ] Question 1: What are the top 10 most common tags 
+ (rank tags by popularity)
+  - Answer: artificial-intelligence , machine-learning  ,neural-network , algorithm , python  , java , c# ,  nlp  ,tensorflow   , c++       
+- Visualization: ![Q1 Visualization](output1.png)
 
-- [ ] Question 2: 	How many AI-related questions were asked each year?
-Goal: Group by year and count questions.
+
+
+- [ ] Question 2: 	Which tags has the highest average score?
+  - Answer: stocks
+finance
+security
+sirikit
+  - Visualization: ![Q2 Visualization](output2.png)
+
+- [ ] Question 3:Which tags have the highest average number of comments?
+  - Answer:  imshow
+hashtable
+self-modifying
+transform
+cpu-speed
+  - Visualization: ![Q3 Visualization](output3.png)
+
+- [ ] Question 4: Which tags have the highest average view counts?
 	
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
-
-- [ ] Question 3: Which tags most frequently appear together with AI?
-Goal: Find popular tag combinations.
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
-
-- [ ] Question 4: 	What is the distribution of AI tags across categories like Machine Learning, NLP, and Computer Vision?
-Goal: Categorize tags and count each category.
+  - Answer: 2048
+stocks
+finance
+pathfinder
+elasticsearch
+  - Visualization: ![Q4 Visualization](output4.png)
+- [ ] Question 5:	Which tags have the highest average number of answers?
 	
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+  - Answer: artificial-intelligence
+memory-leaks
+...
+operating-system
+neurolab
+lookup-t
+  - Visualization: ![Q5 Visualization](output5.png)
 
-- [ ] Question 5:	Which tags are trending in the most recent year?
-Goal: Identify new or emerging tags.
-	
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+- [ ] Question 6: 	What is the average score of the top 5 most common tags?
+  - Answer: artificial-intelligence
+machine-learning
+neural-network
+algorithm
+python
+  - Visualization: ![Q6 Visualization](output6.png)
 
-- [ ] Question 6: 	Which programming languages are most commonly used with AI tags?
-Goal: Group by language and count tag usage.
-	
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+- [ ] Question 7: 	What is the average view count of the top 5 tags with the highest average score?
+  - Answer: 2048
+stocks
+finance
+security
+sirikit
+  - Visualization: ![Q7 Visualization](output7.png)
 
-- [ ] Question 7: 	Who are the top users asking AI-related questions?
-Goal: Count questions per user.
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
 
-- [ ] Question 8:	What is the monthly trend of AI questions over time?
-Goal: Visualize growth or decline of AI questions per month.
-	
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+- [ ] Question 8: Which tags have a count of tags greater than 500?
+  - Answer:artificial-intelligence
+machine-learning
+neural-network
+algorithm
+python
+  - Visualization: ![Q8 Visualization](output8.png)
 
-- [ ] Question 9: What are the top 5 tags that co-occur with AI most frequently?
-Goal: Count tag pairs and identify top co-occurring tags.
-	
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+- [ ] Question 9: What is the average comment count for tags with more than 1000 questions?
+  - Answer: artificial-intelligence
+machine-learning
+  - Visualization: ![Q9 Visualization](output9.png)
 
-- [ ] Question 10:	How are AI tags connected to other tech tags in a network?
-Goal: Create a simple network graph to show relationships.
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
-
+- [ ] Question 10:	What are the tags with an average answer count below 1.5?
+  - Answer: apache-spark-mllib
+graphic
+...
+julia-lang
+grails
+gradient
+intellij-idea
+  - Visualization: ![Q10 Visualization](output10.png)
 
 
 
