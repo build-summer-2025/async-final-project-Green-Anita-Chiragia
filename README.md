@@ -13,7 +13,7 @@ I  chose this dataset because I’m interested in how emerging technologies like
 - [ x] Defined 10 questions
 - [ x] Answered 10 questions using Pandas
 - [ x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
-- [ ] Prepared presentation slides to present at graduation
+- [ x] Prepared presentation slides to present at graduation
 
 ## Questions
 - [ ] Question 1: What are the top 10 most common tags 
